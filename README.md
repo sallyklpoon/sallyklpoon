@@ -2,7 +2,7 @@
 
 (she/her)
 
-🌱 I’m currently learning to become a software developer at BCIT's Computer Systems Technology program.
+🌱 I’m currently learning to program and do snazzy computer things at BCIT's Computer Systems Technology program.
 
 🐍 Python is the language I'm currently coding in! But I'm also learning HTML/CSS and some Java
 
