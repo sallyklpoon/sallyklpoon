@@ -6,6 +6,6 @@
 
 🐍 Python is the language I'm currently coding in! But I'm also learning HTML/CSS and some Java
 
-I advocate for mental health as a Crisis Line volunteer and, having worked with fantastic research supervisors and bad&#42ss womxn in the pass, am all about empowerment for womxn in tech.
+Having worked with fantastic research supervisors and bad\*ss womxn in the pass, I am all about empowerment for womxn in tech and advocacy for mental health.
 
 ⚡ Fun fact: I'm a proud Chinese-Canadian and my name in Mandarin, sounds like "ice cream" in that language! 🍦
