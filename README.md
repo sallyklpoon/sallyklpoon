@@ -3,6 +3,7 @@
 (she/her)
 
 🌱 I’m currently learning to become a software developer at BCIT's Computer Systems Technology program.
+
 🐍 Python is the language I'm currently coding in! But I'm also learning HTML/CSS and some Java
 
 I advocate for mental health as a Crisis Line volunteer and, having worked with fantastic research supervisors and bad&#42ss womxn in the pass, am all about empowerment for womxn in tech!
