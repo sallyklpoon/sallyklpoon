@@ -1,4 +1,4 @@
-### Hi there, I'm Sally! 👋
+### Hey hey, I'm Sally! 👋
 (she/her)
 
 
