@@ -6,6 +6,6 @@
 
 🐍 Python is the language I'm currently coding in, but I'm also learning HTML/CSS and some Java!
 
-Having worked with fantastic research supervisors and bad\*ss womxn, I am all about empowerment for women in tech and advocacy for mental health.
+Having worked with fantastic research supervisors and bad\*ss women, I am all about empowerment for women in tech and advocacy for mental health.
 
 ⚡ Fun fact: my Chinese name, in Mandarin, sounds like "ice cream"! 🍦 (I speak both Cantonese and Mandarin)
