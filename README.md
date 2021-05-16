@@ -10,4 +10,4 @@
 
 🤓 What I'm currently learning: React Native
 
-📝 On my list of things to learn next: Java ☕
+📝 What I want to learn next: Java ☕
