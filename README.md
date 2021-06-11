@@ -4,10 +4,10 @@
 
 🌱 I’m currently learning to program and do \~schnazzy\~ computer things in BCIT's Computer Systems Technology program.
 
-🐍 Python is the language I'm currently coding in, but I can also code in HTML5, CSS, and Javascript!
+🤖 I can code in Python, Javascript and do fun web things with HTML 5, CSS 3, and React
 
 ⚡ Fun fact: my Chinese name, in Mandarin, sounds like "ice cream"! 🍦 (I speak both Cantonese and Mandarin)
 
-🤓 What I'm currently learning: React Native
+🤓 What I'm currently up to: Designing my personal webpage
 
-📝 What I want to learn next: Java ☕
+📝 What I want to learn next: Java ☕, Data Structures and Algos, Time Complexities
