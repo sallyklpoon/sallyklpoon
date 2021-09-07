@@ -8,6 +8,8 @@
 
 ⚡ Fun fact: my Chinese name, in Mandarin, sounds like "ice cream"! 🍦 (I speak both Cantonese and Mandarin)
 
-🤓 What I'm currently up to: Designing my personal webpage
+🤓 What I'm currently up to: Procedural Programming in C, Object Oriented Programminig in Java
 
-📝 What I want to learn next: Java ☕, Data Structures and Algos, Time Complexities
+📝 What I want to learn next: Data Structures and Algos, Time Complexities
+
+👀 You can check out my portfolio site at sallyklpoon.xyz
