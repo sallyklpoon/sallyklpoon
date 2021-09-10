@@ -8,7 +8,7 @@
 
 ⚡ Fun fact: my Chinese name, in Mandarin, sounds like "ice cream"! 🍦 (I speak both Cantonese and Mandarin)
 
-🤓 What I'm currently up to: Procedural Programming in C, Object Oriented Programminig in Java, and self-teach Data Structures and Algorithms
+🤓 Currently learning: Procedural Programming in C, Object Oriented Programminig in Java, and self-teach Data Structures and Algorithms
 
 📝 What I want to learn next: Time Complexities
 
