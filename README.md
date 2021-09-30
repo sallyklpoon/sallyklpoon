@@ -1,5 +1,4 @@
 ### Hey hey, I'm Sally! 👋
-(she/her)
 
 
 ## 🌱 Welcome to my Github!
