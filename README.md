@@ -14,4 +14,4 @@
 
 ⚡ Fun fact: my Chinese name, in Mandarin, sounds like "ice cream"! 🍦
 
-![Vibing Plant](https://i.imgur.com/a9QVZpO.gif)
+![Vibing Plant](https://i.imgur.com/dOlKlm5.gif)
