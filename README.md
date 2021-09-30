@@ -1,6 +1,6 @@
 ### Hey hey, I'm Sally! 👋
 
-![Alt Text](https://i.imgur.com/a9QVZpO.gifv)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ## 🌱 Welcome to my Github!
 * I’m currently learning to program and do \~schnazzy\~ computer things in BCIT's Computer Systems Technology program.
