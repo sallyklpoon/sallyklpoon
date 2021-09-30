@@ -1,4 +1,4 @@
-### Hey hey, I'm Sally! 👋
+### Hey hey, I'm Sally! ![Vibing Plant](https://i.imgur.com/dOlKlm5.gif)
 
 ## 🌱 Welcome to my Github!
 * I’m currently learning to program and do \~schnazzy\~ computer things in BCIT's Computer Systems Technology program.
@@ -14,4 +14,4 @@
 
 ⚡ Fun fact: my Chinese name, in Mandarin, sounds like "ice cream"! 🍦
 
-![Vibing Plant](https://i.imgur.com/dOlKlm5.gif)
+
