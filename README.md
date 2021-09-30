@@ -1,7 +1,5 @@
 ### Hey hey, I'm Sally! 👋
 
-![Vibing Plant](https://i.imgur.com/a9QVZpO.gif)
-
 ## 🌱 Welcome to my Github!
 * I’m currently learning to program and do \~schnazzy\~ computer things in BCIT's Computer Systems Technology program.
 * I code in Python 3, Javascript and do fun web things with HTML 5, CSS 3, and React
@@ -15,3 +13,5 @@
 👀 You can check out my portfolio site at sallyklpoon.xyz
 
 ⚡ Fun fact: my Chinese name, in Mandarin, sounds like "ice cream"! 🍦
+
+![Vibing Plant](https://i.imgur.com/a9QVZpO.gif)
