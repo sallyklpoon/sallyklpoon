@@ -12,6 +12,6 @@
 
 👀 You can check out my portfolio site at sallyklpoon.xyz
 
-⚡ Fun fact: my Chinese name, in Mandarin, sounds like "ice cream"! 🍦
+🍦 Fun fact: my Chinese name, in Mandarin, sounds like "ice cream"! 
 
 
