@@ -7,10 +7,10 @@ Currently: Completing a co-op term. BRB!
 * I code in Python 3, Javascript and do fun web things with HTML 5, CSS 3, and React
 
 ### 📚 Currently Learning
-* Procedural Programming in C
-* Object Oriented Programminig in Java
-* Data Structures and Algorithms
-* Time Complexities
+* Ruby on Rails
+* AWS tools
+* React on Rails
+* Typescript
 
 👀 You can check out my portfolio site at sallyklpoon.xyz
 
