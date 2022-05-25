@@ -1,3 +1,7 @@
+# Hi sally, I'm here to remind you to pay your bills
+![cat](https://i.imgur.com/1UwX5La.jpeg)
+
+
 # Hey there, I'm Sally! ![Vibing Plant](https://i.imgur.com/dOlKlm5.gif)
 
 Currently: Completing a co-op term. BRB!
