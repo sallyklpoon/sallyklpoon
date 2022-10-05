@@ -10,8 +10,6 @@ Currently: Completing my final year of school and looking for New Grad opportuni
 * Stats & Probability
 * Serverless tools
 
-👀 You can check out my portfolio site at sallyklpoon.xyz
-
 🍦 Fun fact: my Chinese name, in Mandarin, sounds like "ice cream"! 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sallyklpoon&theme=blueberry&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
