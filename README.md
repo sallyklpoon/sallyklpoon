@@ -1,14 +1,8 @@
 # Hey there, I'm Sally! ![Vibing Plant](https://i.imgur.com/dOlKlm5.gif)
 
-Currently: Completing my final year of school and looking for New Grad opportunities!
-
-### 🌱 Welcome to my Github!
+### 🌱 Welcome!
 * I’m currently enrolled in BCIT's Computer Systems Technology program
-* I work with Python, JS, React, Ruby on Rails, AWS, and TS!
-
-### 📚 Currently Learning
-* Stats & Probability
-* Serverless tools
+* I have experience with Python, JS, React, Ruby on Rails, AWS, and TS!
 
 🍦 Fun fact: my Chinese name, in Mandarin, sounds like "ice cream"! 
 
